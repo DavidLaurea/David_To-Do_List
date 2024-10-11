@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TODO-sovellus</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="todo-container">
+        <h1>To-Do List</h1>
+        <form id="todo-form">
+            <input type="text" id="todo-input" placeholder="Add new task" required>
+            <button type="submit">Add Task</button>
+            <p id="error-message" class="error"></p>
+        </form>
+
+        <div class="filters">
+            <button id="all-tasks">All Tasks</button>
+            <button id="active-tasks">Active Tasks</button>
+            <button id="completed-tasks">Completed Tasks</button>
+        </div>
+
+        <ul id="todo-list"></ul>
+
+        <p id="task-counter">Tasks Remaining: 0</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
