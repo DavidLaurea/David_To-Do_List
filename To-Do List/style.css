@@ -1,13 +1,12 @@
-/* Asetetaan body täyttämään koko näyttö ja käytetään flexboxia */
 body {
     font-family: Arial, sans-serif;
     background-color: #202020;
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: center; /* Vaakasuuntainen keskitys */
-    align-items: center;     /* Pystysuuntainen keskitys */
-    height: 100vh;           /* Varmistetaan, että korkeus kattaa koko näkyvän alueen */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 .todo-container {
@@ -81,7 +80,6 @@ input.error {
     background-color: #0b4b19;
 }
 
-/* Task counter style */
 #task-counter {
     margin-top: 15px;
     font-weight: bold;
