@@ -32,7 +32,7 @@ Yksinkertainen tehtävienhallintasovellus, joka mahdollistaa tehtävien lisääm
 - localStorage: Tehtävien tallentamiseen selaimen muistiin
 
 ## Kuvakaappaus
-'!(https://cdn.discordapp.com/attachments/1173684154395791533/1294262494897901629/image.png?ex=670a5f61&is=67090de1&hm=58cfdb770aeecfc733458f7f3dad3ec8a4dc6386d6b1dce06673b0a602b36494&)'
+`(https://cdn.discordapp.com/attachments/1173684154395791533/1294262494897901629/image.png?ex=670a5f61&is=67090de1&hm=58cfdb770aeecfc733458f7f3dad3ec8a4dc6386d6b1dce06673b0a602b36494&`
 
 ## Käyttöönotto
 Avaa nettisivu ja pääset suoraan käsiksi.
