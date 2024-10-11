@@ -2,7 +2,7 @@
 To-Do List made by David Porras
 
 ## Linkki:
-Access my site at [google.com](https://google.com)
+Pääset sivulleni osoitteesta [To-Do List](https://6709177b556abc5795aa6906--to-dolistdavid.netlify.app/)
 
 ## Table of Content:
 
